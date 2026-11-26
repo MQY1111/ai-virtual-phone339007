@@ -101,7 +101,7 @@ NEXT_PUBLIC_SELF_HOSTED_MODE=true
 
 然后关闭单机模式并填入服务端密钥：
 
-```env
+ ```env
 NEXT_PUBLIC_SELF_HOSTED_MODE=false
 SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
